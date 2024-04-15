@@ -1,5 +1,3 @@
-<h2> Hey there! I'm Kils</h2>
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; 后端开发：Java / Go（全职饭碗）
