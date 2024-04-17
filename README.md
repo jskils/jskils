@@ -3,7 +3,7 @@
 - 🤔 &nbsp; 后端开发：Java / Go（全职饭碗）
 - 🎓 &nbsp; 前端开发：Web / 小程序 / App / 桌面应用（毫无美感）
 - 💼 &nbsp; 脚本 / 爬虫 / 逆向 （真有趣）
-- 🌱 &nbsp; MMORPG 游戏爱好者（都玩! WOW 永远的神）
+- 🌱 &nbsp; 任何技术都感兴趣都能接受
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
