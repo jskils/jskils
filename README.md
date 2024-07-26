@@ -1,8 +1,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; 主后端开发：Java / Go（全职饭碗）
-- 🎓 &nbsp; 会前端开发：Web / 小程序 / App / 桌面应用（能做就行）
-- 💼 &nbsp; 业余：脚本 / 爬虫 / 逆向 （真有趣）
+- 🤔 &nbsp; 主后端：Java / Go / Python
+- 🎓 &nbsp; 前端：Web / 小程序 / App / 桌面应用
+- 💼 &nbsp; 其他：脚本 / 爬虫 / 逆向
 - 🌱 &nbsp; "可以摆烂，但不能真的菜"
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
