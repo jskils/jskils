@@ -1,7 +1,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; 主后端：Java / Go / Python
-- 🎓 &nbsp; 前端：Web / 小程序 / App / 桌面应用
+- 🤔 &nbsp; 主后端：Java / Go / Python / NodeJs
+- 🎓 &nbsp; 前端：Vue / Electron / Uniapp
 - 💼 &nbsp; 其他：脚本 / 爬虫 / 逆向
 - 🌱 &nbsp; "可以摆烂，但不能真的菜"
 
